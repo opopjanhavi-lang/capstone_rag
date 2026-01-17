@@ -203,6 +203,10 @@ Non-arXiv PDFs usually parse perfectly.
 
 ---
 
+## Detailed Report
+
+-   The detailed report is present in the file **rag.pdf**.
+
 ## 🧹 Resetting the Database
 
 To start fresh:
